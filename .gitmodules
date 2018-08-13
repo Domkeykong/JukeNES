@@ -1,3 +1,6 @@
-[submodule "videocall/psoc"]
-	path = videocall/psoc
+[submodule "JukeNES/SMB3/psoc"]
+	path = JukeNES/SMB3/psoc
+	url = https://github.com/pjgat09/tasbot.git
+[submodule "JukeNES/MM1/psoc"]
+	path = JukeNES/MM1/psoc
 	url = https://github.com/pjgat09/tasbot.git
